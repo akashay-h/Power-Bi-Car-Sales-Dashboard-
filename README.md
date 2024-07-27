@@ -1,4 +1,4 @@
-# Power-Bi-Car-Sales-Dashboard-
+# Power-Bi-Car-Sales-Dashboard
 This repository contains an advanced car sales dashboard created using Power BI. The dashboard provides comprehensive insights into car sales performance, enabling businesses to monitor and evaluate their sales activities effectively.
 # Overview
 This repository contains an advanced car sales dashboard created using Power BI. The dashboard offers a comprehensive view of car sales performance by leveraging powerful data visualization techniques and advanced analytics. It enables businesses to monitor and evaluate their sales activities effectively, facilitating data-driven decision-making. By integrating multiple data sources, the dashboard provides real-time insights into various aspects of car sales, including sales trends, performance metrics, and key performance indicators (KPIs).
